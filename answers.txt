@@ -5,3 +5,10 @@ Answer: It makes working with code versioning much easier.
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: Data science could be applied to business. This could be with business analytics.
+
+
+Q3: What is the difference between Merging and Rebasing?
+
+
+Answer: Merging combines branches creating a new merge commit, while rebasing creates a linear history of commits.
+
